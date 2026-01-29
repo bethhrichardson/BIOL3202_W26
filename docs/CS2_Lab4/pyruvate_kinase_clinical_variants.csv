@@ -1,0 +1,51 @@
+variant_id,aa_position,variant_type,change,associated_phenotype
+PKLR_037,451,missense,E451G,Altered allosteric regulation
+PKLR_009,89,missense,H89Y,Neutral
+PKLR_028,341,missense,A341T,Mild enzyme instability
+PKLR_045,539,missense,R539H,Mild hemolytic anemia
+PKLR_003,18,missense,L18F,Neutral
+PKLR_041,493,missense,D493N,Mild pyruvate kinase deficiency
+PKLR_020,239,missense,I239N,Neutral
+PKLR_050,572,nonsense,Q572*,Severe pyruvate kinase deficiency
+PKLR_014,156,nonsense,E156*,Severe hemolytic anemia
+PKLR_033,407,missense,G407R,Reduced enzyme activity
+PKLR_006,55,missense,V55A,Neutral
+PKLR_039,471,missense,G471S,Neutral
+PKLR_024,289,frameshift,289delA,Severe pyruvate kinase deficiency
+PKLR_001,5,missense,M5I,Neutral
+PKLR_017,198,missense,R198H,Mild pyruvate kinase deficiency
+PKLR_047,557,missense,Y557F,Neutral
+PKLR_030,368,missense,V368I,Neutral
+PKLR_010,102,missense,D102N,Reduced ATP production
+PKLR_044,528,missense,G528D,Reduced enzyme responsiveness
+PKLR_022,263,missense,R263W,Pyruvate kinase deficiency
+PKLR_034,421,missense,A421V,Neutral
+PKLR_012,131,missense,Y131C,Enzyme instability
+PKLR_048,563,frameshift,563delC,Severe enzyme dysfunction
+PKLR_036,442,missense,R442K,Neutral
+PKLR_015,172,missense,G172R,Reduced substrate affinity
+PKLR_005,41,missense,R41C,Reduced tetramer formation
+PKLR_026,314,missense,E314Q,Neutral
+PKLR_043,516,missense,E516K,Altered metabolic regulation
+PKLR_019,224,missense,E224K,Reduced enzyme activity
+PKLR_032,394,missense,D394N,Mild hemolytic anemia
+PKLR_046,548,missense,A548T,Neutral
+PKLR_008,75,missense,G75D,Pyruvate kinase deficiency
+PKLR_040,482,missense,R482W,Impaired allosteric activation
+PKLR_013,145,missense,A145V,Neutral
+PKLR_021,251,missense,G251S,Mild hemolytic anemia
+PKLR_031,381,missense,H381Q,Altered catalytic regulation
+PKLR_018,210,missense,D210G,Altered catalytic rate
+PKLR_002,12,missense,S12P,Mild enzyme instability
+PKLR_049,569,missense,R569C,Impaired regulation
+PKLR_027,327,missense,G327E,Enzyme misfolding
+PKLR_038,460,missense,Y460C,Reduced response to activators
+PKLR_016,185,missense,V185M,Neutral
+PKLR_007,63,missense,I63T,Mildly reduced catalytic efficiency
+PKLR_035,435,nonsense,W435*,Severe pyruvate kinase deficiency
+PKLR_011,118,missense,S118F,Mild hemolytic anemia
+PKLR_025,301,missense,D301Y,Reduced ATP yield
+PKLR_004,27,nonsense,Q27*,Severe pyruvate kinase deficiency
+PKLR_042,504,missense,V504A,Neutral
+PKLR_023,275,missense,V275L,Neutral
+PKLR_029,356,missense,R356C,Pyruvate kinase deficiency
