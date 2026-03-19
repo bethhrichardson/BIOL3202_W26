@@ -1,0 +1,6 @@
+accession	gene name	gene abbreviation	mechanism
+NP_417644.4	sulfonamide resistant dihydropteroate synthase	folP	antibiotic target alteration
+NP_617713.2	ATP-binding cassette (ABC) antibiotic efflux pump	mgrA	antibiotic efflux
+NP_617860.2	tetracycline-resistant ribosomal protection protein	tetW	antibiotic target protection
+NP_717720.2	NDM beta-lactamase	NDM1	antibiotic inactivation
+NP_719123.2	vancomycin-resistant beta prime subunit of RNA polymerase	rpoC	glycopeptide antibiotic	antibiotic target alteration
